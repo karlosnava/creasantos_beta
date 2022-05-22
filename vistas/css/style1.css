@@ -1,0 +1,62 @@
+﻿
+/*-------------*/
+.imgRep{
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+}
+#contenedor
+{
+	width:100%;
+}
+.fondorojo
+{
+	border: 1.5px solid #dd1a1a!important;
+	color:#ca2c2c;
+}
+.fondoazul
+{
+	border: 1.5px solid #007BFF!important;
+	color: #007eb9;
+}
+#d1, #d2, #d3, #d4, #d5, #d6
+{
+	width:80px;
+}
+#guion
+{
+	font-weight:bold;
+	font-size:28px;
+}
+#idsede
+{
+	font-size:15px;
+}
+#tablabase, #tablaresultados, #total
+{
+	margin: 0 auto;
+}
+.titulo
+{
+	font-weight:bold;
+}
+#respuesta
+{
+	height:550px;
+	width:100%;
+	border:0px solid #000000;
+}
+.espacio
+{
+	width:50px;
+}
+#tablaresp
+{
+	position: absolute;
+	top: 200px; left: 40px;
+	width:500px;
+	background-color:#66FFFF;
+	font-weight:bold;
+	font-size:18px;
+	display:none;
+}

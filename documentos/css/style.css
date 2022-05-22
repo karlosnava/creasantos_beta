@@ -1,0 +1,92 @@
+﻿#contenedor_documento
+{
+	position: absolute; 
+	top:5px;left:0px;
+	width: 1000px; height: 1280px;
+	border:0px solid ;
+	border-radius: 10px;
+}
+.centro
+{
+	margin: 0 auto;
+}
+.centrotxt
+{
+	text-align: center;
+}
+.negrilla
+{
+	font-weight:bold;
+}
+.izqtxt
+{
+	text-align: left;
+}
+.dertxt
+{
+	text-align: right;
+}
+.colortitulo
+{
+	background:#D6DDEF;
+}
+.check
+{
+	width:15px;
+}
+#tablapruebasserologicas
+{
+	width:80%;
+}
+#tabla_datos_salida
+{
+	width:70%;
+}
+.titulo_tablapruebasserologicas
+{
+	font-size:13px;
+	font-weight:bold;
+
+}
+.txtpruebassero
+{
+	font-size:11px;
+	font-weight:bold;
+}
+.txtrespuestasero
+{
+	font-size:11px;
+}
+.txtobs_tablapruebasserologicas
+{
+	font-size:12px;
+}
+.linea_egreso
+{
+	width:85%;
+	color:black;
+	background-color:black;
+	background:black;
+	border:1px solid ;
+}
+.img_linea
+{
+	width:60px;
+}
+.componente_linea
+{
+	width:150px;
+}
+.firma_linea
+{
+	width:200px;
+}
+.eliminado
+{
+	position: absolute;
+	top: 230px; left: 10px;
+	font-size: 150px;
+	color:red;
+	-webkit-transform:rotate(-30deg);
+	/*display:none;*/
+}
